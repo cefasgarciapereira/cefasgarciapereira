@@ -6,4 +6,4 @@ Besides my academic life, I dedicate my time working as a developer, especially 
 
 Skills: Desgin, Front-End, Development, Research, Class.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Cefas' github stats](https://github-readme-stats.vercel.app/api?username=cefasgarciapereira)](https://github.com/anuraghazra/github-readme-stats)
